@@ -1,2 +1,2 @@
 var_1 = "sugar"
-sugar_count = 3
+sugar_count = 2
